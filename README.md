@@ -3,7 +3,7 @@
 ## Features:
 
 - You'll get and running jQuery Mobile in a minute! We include examples!
-- We're using the latest jQuery Mobile version (1.0a4.1 - June 2011), and we'll update it as they release a new version.
+- We're using the latest jQuery Mobile version, and we'll update it as they release a new version.
 - All "Apple app mode" goodies enabled by default. Including "Add to home screen", fullscreen, iPod/iPad/iPhone icons, splash screens, authomatic viewports...
 - We replace the ugly jQuery Mobile css, and trasnsformed it into a nice compass (sass) code. Easy, beatiful and easy to modify.
 
@@ -25,6 +25,11 @@ Add this line inside your Sinatra app:
 ```
 
 And that's it!.
+
+## Resources
+
+[jQuery Mobile][jqm] 1.0a4.1, June 2011
+[mobile-bookmark-bubble] June 2011
 
 ## Contribute
 
@@ -70,9 +75,10 @@ Thank you!
 [crowdint]: http://www.crowdint.com/en/about_us
 [hybridgroup]: http://hybridgroup.com
 [amazon]: http://amzn.com/w/18ZQSVYATE5M1
-[repo]: https://github.com/mariozaizar/sinatra_mobile.git;
+[repo]: https://github.com/mariozaizar/sinatra_mobile/;
 
 [jqm]: http://jquerymobile.com/
+[mobile-bookmark-bubble]: http://code.google.com/p/mobile-bookmark-bubble/
 [git]: http://git-scm.com/
 [sinatra]: http://www.sinatrarb.com/
 [rails]: http://rubyonrails.org/
