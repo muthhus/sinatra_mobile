@@ -28,47 +28,49 @@ And that's it!.
 
 ## Contribute
 
-* [Report bugs!](https://github.com/mariozaizar/Sinatra_Mobile/issues?labels=Bugs)
-* [Suggest new goodies!](https://github.com/mariozaizar/Sinatra_Mobile/issues?labels=Features)
+* [Report bugs!](https://github.com/mariozaizar/sinatra_mobile/issues?labels=Bugs)
+* [Suggest new goodies!](https://github.com/mariozaizar/sinatra_mobile/issues?labels=Features)
 * _Buy me a beer ([or something better][amazon])_
 
 ## About
 
-### Project page: <https://github.com/mariozaizar/Sinatra_Mobile>, and [help](https://github.com/mariozaizar/Sinatra_Mobile/issues?labels=Help).
+### Project page: <https://github.com/mariozaizar/sinatra_mobile>, and here is the [help](https://github.com/mariozaizar/sinatra_mobile/issues?labels=Help).
 Follow me on [Twitter!][twitter], read [our blog][crowdint] or stalk me on [Facebook!][facebook].
 
 ### Thanks to
 
-This project started as me grabbing scripts, mods and hacks to enhance my developer experience and happiness.
-Over the time I based my configurations on this awesome resources: 
+This project started as me learning about jQuery Mobile for existing Sinatra apps.
+I grab some tips, and hacks to enhance the mobile experience, and gain happiness doing it.
+Over the time, I worked (and learned) from this guys:
 
 - [jQuery Mobile][jqm] team, they're the best!.
 - [CrowdInteractive][crowdint] team, best place to work.
 - [The HybridGroup][hybridgroup] team, you rock!
 
+Thank you!
+
 
 ## TODO list
 
 * Finish this gem :)
-* Use it in my production envs. Be the test-case.
-* Be The gem for Sinatra & jQuery Mobile.
-* Be the asiest way to get jQuery Mobile in your Sinatra app.
-* Move jQuery Mobile to the next level. Enable it with Compass, Sass, Haml..
-* Be the easiest way to modify/create a new jQuery Mobile theme. No more raw css code. No more ugly code.
+* Use it in my production envs. Be the human test-case.
+* Be "The" gem for using Sinatra & jQuery Mobile.
+* Move jQuery Mobile to the next level. Enable it with Com  pass, Sass, Haml..
+* Be the asiest way to generate new jQuery Mobile themes. No more raw css code. No more ugly code.
+* Add more themes by default, more than just Valencia.
 * Enable basic views (mobile views) for the current existing routes.
-* Be RESTul. Smart routes, device detection.
-* require 'sinatra-compass' (?)
-* Add more themes than the Valencia and Default from jqm.
-* iGrowl?
+* Be RESTul. Smart routes, device detection...
+* Add more goodies. Maybe iGrowl?
+* `require 'sinatra-compass'` (?)
 * Enable donations.
 * <del>Marry Megan Fox.</del>
 
 [twitter]: http://twitter.com/mariozaizar
 [facebook]: http://facebook.com/mariozaizar
-[crowdint]: http://blog.crowdint.com
+[crowdint]: http://www.crowdint.com/en/about_us
 [hybridgroup]: http://hybridgroup.com
 [amazon]: http://amzn.com/w/18ZQSVYATE5M1
-[repo]: https://github.com/mariozaizar/Sinatra_Mobile.git;
+[repo]: https://github.com/mariozaizar/sinatra_mobile.git;
 
 [jqm]: http://jquerymobile.com/
 [git]: http://git-scm.com/
